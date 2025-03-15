@@ -1,5 +1,5 @@
 # Cookie-clicker
-This is an automated cookie-clicker that uses Selenium WebDriver to click cookies on "https://orteil.dashnet.org/experiments/cookie/" continuously. It checks for upgrades every 5 seconds and purchases the most expensive available upgrade.  
+This is an automated cookie-clicker that uses Selenium WebDriver to click cookies continuously. It checks for upgrades every 5 seconds and purchases the most expensive available upgrade.  
 # Requirments
 Selenium is installed.
 # Usage instructions
